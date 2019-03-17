@@ -56,7 +56,24 @@ To make a good progression system not based on grinding we can take some element
 
 - FLOW: if we make a good mix of these elements we will achieve the goal of every video game, make the player enter to the flow state.
 
-###
+### Mathematics in RPG Progression
+
+As we all know, almost every progression system is based on XP, or  levels which normally are mesured with XP aswell. 
+
+This XP is nothing more than numbers, every game has its own system of formulas to calcule the amount of XP a character need to level up.
+
+I provide you with a generic formula which can be used in a RPG game for your own XP system:
+
+point_required_to_level_up=(15*level)+(9*(level-1))
+
+This is a general formula but, like I said, every game has its own sytem and there are infinite types of formulas that helps teams calcule the amount of XP they need to level up, to calcule the damage at each level, the life, etc.
+
+Some examples are AAA games, they use so complex mathematics formulas to calcule their stats along the progression of the player during the game.
+
+These examples are examples of XP formulas:
+
+- RuneScape:
+ 
 ```markdown
 Syntax highlighted code block
 
