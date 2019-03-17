@@ -62,6 +62,8 @@ To make a good progression system not based on grinding we can take some element
 
 - FLOW: if we make a good mix of these elements we will achieve the goal of every video game, make the player enter to the flow state.
 
+![](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/question-mark.jpg?raw=true)
+
 ### Mathematics in RPG Progression
 
 As we all know, almost every progression system is based on XP, or  levels which normally are mesured with XP aswell. 
