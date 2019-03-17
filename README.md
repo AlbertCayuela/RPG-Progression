@@ -76,14 +76,14 @@ These examples are examples of XP formulas:
 
 - RuneScape:
 
-![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/runescape.JPG)
+![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/runescape.JPG?raw=true)
 
 - World of Warcraft:
 
-![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/Wow.JPG)
+![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/Wow.JPG?raw=true)
 
 - Diablo III:
 
-![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/diablo3.JPG)
+![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/diablo3.JPG?raw=true)
  
 
