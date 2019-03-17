@@ -105,5 +105,23 @@ Even though we make a very consistent preproduction phase, we will struggle for 
 We have to test our game as much as we can to know what can be changed to balance more the game and take it to the point we want.
 
 When we know what do we want to change, we enter in the game tunning phase, it is were normally, our designers change  the stats numbers or formulas in order to balance the game and bring it to our aim point.
+
+![](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/stats.png?raw=true)
  
+### Bibliography
+
+https://www.davideaversa.it/2018/02/gamedesign-math-rpg-level-based-progression/
+
+https://www.youtube.com/watch?v=tWtvrPTbQ_c
+
+https://gamedev.stackexchange.com/questions/59589/rpg-level-experience-formula
+
+https://frictionalgames.blogspot.com/2011/11/problem-of-repetition.html
+
+https://onlyagame.typepad.com/only_a_game/2006/08/mathematics_of_.html
+
+https://medium.com/gameful-design/level-up-the-role-of-progression-for-gameful-design-ce7a87e2b70
+
+
+
 
