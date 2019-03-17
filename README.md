@@ -26,6 +26,8 @@ Our objective when we make a game is to make our player enjoy when he is playing
 - We find skinner boxes, the game loop is boring and repetitive, the game bases its loop in repeating action and rewarding randomly the player when he does an especific action.
 - A clear example of good progression system lack are game that abuse of 'grinding'. It is something that is not bad to do sometimes but, if the game progression is based on that, the game will be so repetitive and broing for the player.
 
+![](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/sping.gif?raw=true)
+
 ### What does progression apport?
 
 Gustavo Tondello's explanation:
