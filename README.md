@@ -38,7 +38,25 @@ To achieve this we have to meet three conditions:
 
 If we meet these three conditions our player will feel that he has our game under control, something that allow us the keep him playing and stisfied.
 
-### What element do we have to use to get a good progression system?
+### What element do we have to use to make a good progression system?
+
+To make a good progression system not based on grinding we can take some elements that can help us to make the player unaware of the game loops and repetitions.
+
+- Mistery: people are very curious, if we can make our player ask himself questions like, why is this happening? how do I do that? What happens if I do this? will mean that he is enjoying the game and means that he want to keep playing to be able to answer the questions.
+
+- Mastery: we can make the player progress by giving him something to master, like an ability and then, reward him with the use of it.
+
+- Mental Challenge: stimulate the player to make him try to find out how can he get an objective is a good way to keep him interested in our game.
+
+- Narrative: if the story is good enough to make the player think, 'wow, I would like to be there',you have already won a lot of point to make him enjoy the game.
+
+- Novelty: players and people in general, like novel things, different things. This aspect is a bit delusive because if something is not done yet it is probably because it will not work. Anyway there are plenty of examples that went well.
+
+- New content: it is important to give the players new content, this brings them the desire of wanting to try the content and keep playing.
+
+- FLOW: if we make a good mix of these elements we will achieve the goal of every video game, make the player enter to the flow state.
+
+###
 ```markdown
 Syntax highlighted code block
 
