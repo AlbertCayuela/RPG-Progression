@@ -40,6 +40,8 @@ To achieve this we have to meet three conditions:
 - Immediate and constant feedback.
 - Balance between the perceived challenge and the perceived level of skill needed; the player has te be aware of what skill he has every moment, he has to be able to detect what challenges he can pass and what challenges he cannot pass.
 
+![](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/goals.jpg?raw=true)
+
 If we meet these three conditions our player will feel that he has our game under control, something that allow us the keep him playing and stisfied.
 
 ### What element do we have to use to make a good progression system?
