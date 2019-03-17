@@ -2,9 +2,13 @@
 
 I am [Albert Cayuela](https://github.com/AlbertCayuela), student of the [Bachelor's Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year's subject Project II, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
-### Markdown
+### What is the objective of a good RPG progression system?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Essentially, a good RPG progression system objective is to make de player not detect the infinite game loop that every game has.
+Avoid the feeling of repetition the same action over and over again while the player is playing.
+Provide the player with a good and long-term desicion-making system, which let him take desicions for future sessions of playing.
+
+
 
 ```markdown
 Syntax highlighted code block
