@@ -5,10 +5,24 @@ I am [Albert Cayuela](https://github.com/AlbertCayuela), student of the [Bachelo
 ### What is the objective of a good RPG progression system?
 
 Essentially, a good RPG progression system objective is to make de player not detect the infinite game loop that every game has.
+
 Avoid the feeling of repetition the same action over and over again while the player is playing.
+
 Provide the player with a good and long-term desicion-making system, which let him take desicions for future sessions of playing.
 
+Having a good game progression means having a balanced progression, if we are not able to achieve this, our player will be frustrated due to it.
 
+### Why is important to have a good progression system?
+
+When a player plays a game and does not feel any progression, he can feel frustrated and thar can bring him to leave the game.
+
+Our objective when we make a game is to make our player enjoy when he is playing. If we achieve this, the player will remain loyal to our product. If our progression system is good enough, this will be much easier.
+
+### How does a bad progression system look like?
+
+- We will find that the player feels that he is repeating the process over and over again without finding any motivation to keep playing, he gets bored so fast.
+- We find skinner boxes, the game loop is boring and repetitive, the game bases its loop in repeating action and rewarding randomly the player when he does an especific action.
+- A clear example of good progression system lack are game that abuse of 'grinding'. It is something that is not bad to do sometimes but, if the game progression is based on that, the game will be so repetitive and broing for the player.
 
 ```markdown
 Syntax highlighted code block
