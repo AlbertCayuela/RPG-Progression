@@ -4,11 +4,11 @@ I am [Albert Cayuela](https://github.com/AlbertCayuela), student of the [Bachelo
 
 ### What is the objective of a good RPG progression system?
 
-Essentially, a good RPG progression system objective is to make de player not detect the infinite game loop that every game has.
+Essentially, a good RPG progression system objective is to make the player not detect the infinite game loop that every game has.
 
-Avoid the feeling of repetition the same action over and over again while the player is playing.
+Avoid the feeling of repetition of the same action over and over again while the player is playing.
 
-Provide the player with a good and long-term desicion-making system, which let him take desicions for future sessions of playing.
+Provide the player with a good and long-term desicion making system, which let him take decisions for future sessions of playing.
 
 Having a good game progression means having a balanced progression, if we are not able to achieve this, our player will be frustrated due to it.
 
@@ -16,15 +16,15 @@ Having a good game progression means having a balanced progression, if we are no
 
 ### Why is important to have a good progression system?
 
-When a player plays a game and does not feel any progression, he can feel frustrated and thar can bring him to leave the game.
+When a player plays a game and does not feel any progression, he can feel frustrated and that can bring him to leave the game.
 
 Our objective when we make a game is to make our player enjoy when he is playing. If we achieve this, the player will remain loyal to our product. If our progression system is good enough, this will be much easier.
 
 ### How does a bad progression system look like?
 
 - We will find that the player feels that he is repeating the process over and over again without finding any motivation to keep playing, he gets bored so fast.
-- We find skinner boxes, the game loop is boring and repetitive, the game bases its loop in repeating action and rewarding randomly the player when he does an especific action.
-- A clear example of good progression system lack are game that abuse of 'grinding'. It is something that is not bad to do sometimes but, if the game progression is based on that, the game will be so repetitive and broing for the player.
+- We find skinner boxes, the game loop is boring and repetitive, the game bases its loop in repeating actions and rewarding randomly the player when he does an especific action.
+- A clear example of good progression system lack are games that abuse of 'grinding'. It is something that is not bad to do sometimes but, if the game progression is based on that, the game will be so repetitive and boring for the player.
 
 ![](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/sping.gif?raw=true)
 
@@ -42,19 +42,19 @@ To achieve this we have to meet three conditions:
 
 ![](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/goals.jpg?raw=true)
 
-If we meet these three conditions our player will feel that he has our game under control, something that allow us the keep him playing and stisfied.
+If we meet these three conditions our player will feel that he has our game under control, something that allow us to keep him playing and satisfied.
 
-### What element do we have to use to make a good progression system?
+### What elements do we have to use to make a good progression system?
 
 To make a good progression system not based on grinding we can take some elements that can help us to make the player unaware of the game loops and repetitions.
 
-- Mistery: people are very curious, if we can make our player ask himself questions like, why is this happening? how do I do that? What happens if I do this? will mean that he is enjoying the game and means that he want to keep playing to be able to answer the questions.
+- Mistery: people are very curious, if we can make our player ask himself questions like, why is this happening? how do I do that? What happens if I do this? will mean that he is enjoying the game and means that he wants to keep playing to be able to answer those questions.
 
 - Mastery: we can make the player progress by giving him something to master, like an ability and then, reward him with the use of it.
 
 - Mental Challenge: stimulate the player to make him try to find out how can he get an objective is a good way to keep him interested in our game.
 
-- Narrative: if the story is good enough to make the player think, 'wow, I would like to be there',you have already won a lot of point to make him enjoy the game.
+- Narrative: if the story is good enough to make the player think, 'wow, I would like to be there',you have already won a lot of points to make him enjoy the game.
 
 - Novelty: players and people in general, like novel things, different things. This aspect is a bit delusive because if something is not done yet it is probably because it will not work. Anyway there are plenty of examples that went well.
 
@@ -66,19 +66,19 @@ To make a good progression system not based on grinding we can take some element
 
 ### Mathematics in RPG Progression
 
-As we all know, almost every progression system is based on XP, or  levels which normally are mesured with XP aswell. 
+As we all know, almost every progression system is based on XP, or  levels which normally are mesured by XP aswell. 
 
 This XP is nothing more than numbers, every game has its own system of formulas to calcule the amount of XP a character need to level up.
 
-I provide you with a generic formula which can be used in a RPG game for your own XP system:
+I provide you a generic formula which can be used in a RPG game for your own XP system:
 
-point_required_to_level_up=(15*level)+(9*(level-1))
+points_required_to_level_up=(15*level)+(9*(level-1))
 
-This is a general formula but, like I said, every game has its own sytem and there are infinite types of formulas that helps teams calcule the amount of XP they need to level up, to calcule the damage at each level, the life, etc.
+This is a general formula but, like I said, every game has its own sytem and there are infinite types of formulas which help teams calcule the amount of XP they need to level up, to calcule the damage at each level, the life, etc.
 
 Some examples are AAA games, they use so complex mathematics formulas to calcule their stats along the progression of the player during the game.
 
-These examples are examples of XP formulas:
+These are examples of XP formulas:
 
 - RuneScape:
 
@@ -96,15 +96,15 @@ These examples are examples of XP formulas:
 
 Have you ever heard: this game is perfectly balanced!! No. Me neither. Balancing a game, specially a RPG, which usually have so many abilities, skills, types of enemies, etc., is so difficult. 
 
-It is so easy to find and over-powered ability or play that wins you a battle whithout much skill. This is something that we do not want for our game. Make a perfectly balanced game is almost impossible, but can still get as closer as possible to do not make our great game a bad game just because the numbers are not balanced.
+It is so easy to find an over-powered ability or play that wins you a battle whithout much skill. This is something that we do not want for our game. Make a perfectly balanced game is almost impossible, but can still get as closer as possible to do not make our great game a bad game just because the numbers are not balanced.
 
 In order to prevent this we have to make a strong designing process in our preproduction phase. The stronger our basis is, the easier we will balance the game. 
 
-Even though we make a very consistent preproduction phase, we will struggle for sure balancing our game. We only have one way to make everything is balanced: testing.
+Even though we make a very consistent preproduction phase, we will struggle for sure balancing our game. We only have one way to make sure everything is balanced: testing.
 
 We have to test our game as much as we can to know what can be changed to balance more the game and take it to the point we want.
 
-When we know what do we want to change, we enter in the game tunning phase, it is were normally, our designers change  the stats numbers or formulas in order to balance the game and bring it to our aim point.
+When we know what do we want to change, we enter in the game tunning phase, it is were normally, our designers change the stats numbers or formulas in order to balance the game and bring it to our aim point.
 
 ![](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/stats.png?raw=true)
  
