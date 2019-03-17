@@ -91,5 +91,19 @@ These examples are examples of XP formulas:
 - Diablo III:
 
 ![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/diablo3.JPG?raw=true)
+
+### Balancing issues
+
+Have you ever heard: this game is perfectly balanced!! No. Me neither. Balancing a game, specially a RPG, which usually have so many abilities, skills, types of enemies, etc., is so difficult. 
+
+It is so easy to find and over-powered ability or play that wins you a battle whithout much skill. This is something that we do not want for our game. Make a perfectly balanced game is almost impossible, but can still get as closer as possible to do not make our great game a bad game just because the numbers are not balanced.
+
+In order to prevent this we have to make a strong designing process in our preproduction phase. The stronger our basis is, the easier we will balance the game. 
+
+Even though we make a very consistent preproduction phase, we will struggle for sure balancing our game. We only have one way to make everything is balanced: testing.
+
+We have to test our game as much as we can to know what can be changed to balance more the game and take it to the point we want.
+
+When we know what do we want to change, we enter in the game tunning phase, it is were normally, our designers change  the stats numbers or formulas in order to balance the game and bring it to our aim point.
  
 
