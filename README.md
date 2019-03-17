@@ -12,7 +12,7 @@ Provide the player with a good and long-term desicion-making system, which let h
 
 Having a good game progression means having a balanced progression, if we are not able to achieve this, our player will be frustrated due to it.
 
-![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/character-progression.jpg)
+![Image](https://github.com/AlbertCayuela/RPG-Progression/blob/master/documents/character-progression.jpg?raw=true)
 
 ### Why is important to have a good progression system?
 
