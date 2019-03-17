@@ -24,6 +24,21 @@ Our objective when we make a game is to make our player enjoy when he is playing
 - We find skinner boxes, the game loop is boring and repetitive, the game bases its loop in repeating action and rewarding randomly the player when he does an especific action.
 - A clear example of good progression system lack are game that abuse of 'grinding'. It is something that is not bad to do sometimes but, if the game progression is based on that, the game will be so repetitive and broing for the player.
 
+### What does progression apport?
+
+Gustavo Tondello's explanation:
+
+Progression apports the player the feeling that he is overcoming the obstacles he finds during his game sessions. This allows him to feel ready too for the new ones that will come in the future.
+
+To achieve this we have to meet three conditions:
+
+- Clear goals: the player has to be sure of what are his next steps and what he wants to achieve.
+- Immediate and constant feedback.
+- Balance between the perceived challenge and the perceived level of skill needed; the player has te be aware of what skill he has every moment, he has to be able to detect what challenges he can pass and what challenges he cannot pass.
+
+If we meet these three conditions our player will feel that he has our game under control, something that allow us the keep him playing and stisfied.
+
+### What element do we have to use to get a good progression system?
 ```markdown
 Syntax highlighted code block
 
